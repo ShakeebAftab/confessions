@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581618997008",
+    "firebase_url": "https://projectconfession-50eb6.firebaseio.com",
+    "project_id": "projectconfession-50eb6",
+    "storage_bucket": "projectconfession-50eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581618997008:android:03a477c00c7c6b5229b795",
+        "android_client_info": {
+          "package_name": "com.confessionconfetti.confessions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581618997008-0lmaligqdq3jsu4ct7n7c6ngamsedkkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60OyNUK6GuLQIQO-gMhP7GAXZjBFq9ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581618997008-0lmaligqdq3jsu4ct7n7c6ngamsedkkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

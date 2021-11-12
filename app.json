@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "frontendConfession",
-    "slug": "frontendConfession",
+    "name": "Confessions",
+    "slug": "confession",
     "platforms": [
       "ios",
       "android",
@@ -13,7 +13,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ff4848"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,6 +23,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.confessionconfetti.confessions",
+      "versionCode": 6
     }
   }
 }
