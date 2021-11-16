@@ -11,7 +11,7 @@ Social Media App which allows you to post Confessions anonymously or with your r
 
 ## Tech Stack
 
-**Client:** React, Context API
+**Client:** React Native, Context API
 
 **Server:** Node, Express, Firebase
 
